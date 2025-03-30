@@ -1,4 +1,5 @@
 ## Automated TWRP compilation based on Github Action
+## 中文用户点 [这里](https://github.com/BreezyBard62062/Action-TWRP-Builder/blob/main/README_zh-CN.md)
 
 ## Advertising
 
