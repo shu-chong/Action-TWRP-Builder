@@ -46,7 +46,7 @@ All contributors
 For example, your username is: JohnSmith
 ```
 
-#### 0. If you want to commit code, click 'Fork' in the upper right corner of this repository
+#### 0. If you want to commit code, click 'Fork' in the upper right corner of this repository(Not recommended)
 
 ![image](https://user-images.githubusercontent.com/37921907/177914706-c92476c5-7e14-4fb3-be94-0c8a11dae874.png)
 
