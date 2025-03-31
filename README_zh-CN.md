@@ -38,7 +38,7 @@
 | `BUILD_TARGET`       | 编译目标分区 (boot/recovery/vendorboot)    | recovery                                                     |
 
 -----
-
+## 没有设备树？[点我！](https://github.com/BreezyBard62062/Action-TWRP-Builder/blob/main/README_Build-Device-tree.md)
 ## 使用指南
 
 ```
