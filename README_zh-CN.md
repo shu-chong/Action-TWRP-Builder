@@ -45,7 +45,7 @@
 示例用户名：JohnSmith
 ```
 
-#### 0. 如需提交代码，请点击仓库右上角的"Fork"
+#### 0. 如需提交代码，请点击仓库右上角的"Fork"（不建议）
 
 ![分叉按钮](https://user-images.githubusercontent.com/37921907/177914706-c92476c5-7e14-4fb3-be94-0c8a11dae874.png)
 
