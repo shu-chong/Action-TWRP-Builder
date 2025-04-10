@@ -30,8 +30,7 @@ jobs:
 - name: Install dependencies
      run: |
        sudo apt-get update
-       sudo apt-get install -y p7zip-full python3-pip
-       pip3 install twrpdtgen
+       sudo apt-get install -y p7zip-full
         
     - name: Set variables
       run: |
