@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/sekaiacg/device_xiaomi_alioth-TWRP.git'
+        default: 'https://github.com/shu-chong/device_xiaomi_psyche-TWRP.git'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android-13'
+        default: 'android-16'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
